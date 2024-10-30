@@ -3,7 +3,7 @@ kind: Subscription
 metadata:
   name: openshift-pipelines-operator
 spec:
-  channel: piplines-1.16
+  channel: piplines-1.14
   installPlanApproval: Automatic
   name: openshift-pipelines-operator
   source: redhat-operators
