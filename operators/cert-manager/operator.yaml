@@ -3,8 +3,8 @@ kind: Subscription
 metadata:
   name: cert-manager-operator
 spec:
-  channel: stable
+  channel: stable-v1
   installPlanApproval: Automatic
   name: cert-manager-operator
-  source: certified-operators
+  source: redhat-operators
   sourceNamespace: openshift-marketplace
