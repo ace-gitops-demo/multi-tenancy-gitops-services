@@ -1,0 +1,12 @@
+global: {}
+
+foundation-sevices:
+  subscriptions:
+    foundation-sevices:
+      name: foundation-sevices
+      subscription:
+        channel: v7.3-sc2
+        installPlanApproval: Automatic
+        name: ibm-common-service-operator
+        source: opencloud-operators
+        sourceNamespace: openshift-marketplace
