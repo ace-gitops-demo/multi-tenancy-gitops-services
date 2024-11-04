@@ -1,9 +1,9 @@
 global: {}
 
-foundation-sevices:
+foundation-services:
   subscriptions:
-    foundation-sevices:
-      name: foundation-sevices
+    foundation-services:
+      name: foundation-services
       subscription:
         channel: v7.3-sc2
         installPlanApproval: Automatic
